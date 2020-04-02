@@ -5,7 +5,7 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 /**
- * Unit test for simple App..
+ * Unit test for simple App.
  * @author vitali_shulha
  */
 public class AppTest {
